@@ -183,7 +183,7 @@
 
 ### **2. 제품 카테고리 별 전략 제안**
 
-    ![image (36)](https://github.com/user-attachments/assets/d26763f1-5904-4822-a749-58161e245771)
+![image (36)](https://github.com/user-attachments/assets/d67c8fef-fce3-4de8-86dd-e3a1346ab774)
 
 
 - **참고) 카테고리별 이익률 (Profit/Sales %)**
@@ -275,11 +275,13 @@
 💡
 
 **참고. 전체 국가 상관계수 비교** 
+
 <img width="443" alt="image (35)" src="https://github.com/user-attachments/assets/6424e758-c2ba-4563-af77-42e0d0993c70" />
 
 - Sales, Discount, Profit, Quantity(판매량), Shipping Cost
 
 ##Sales ↔ Discount (-0.086)거의 관계 없음 → 할인이 매출 증가에 미치는 영향이 크지 않을 수도 있음.경우에 따라서는 다른 요인이 더 중요할 가능성이 있음.
+
 
 ![image.png](attachment:b797c8b2-6870-4e16-b4ea-c7f86930cd20:image.png)
 
