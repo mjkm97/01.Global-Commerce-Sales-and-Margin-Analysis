@@ -41,7 +41,7 @@
 
 
 **대륙별 매출규모 (기간: 전체) - 국가단위 제외(미국, 캐나다)**
-    ![image (13)](https://github.com/user-attachments/assets/229cdf1f-9653-4a08-834e-12dba92aa850)
+    <img width="844" alt="image" src="https://github.com/user-attachments/assets/587a28eb-d272-4759-9380-8fa6579d5e8e" />
 
 - APAC 의 매출이 대륙 중 가장 높으며, 호주와 중국이 각각 1,2위를 차지하고 있다.
 
