@@ -47,8 +47,9 @@
 - APAC 의 매출이 대륙 중 가장 높으며, 호주와 중국이 각각 1,2위를 차지하고 있다.
 
 **대륙별 매출액 & 이익 분석 (기간: 전체)** 
-    <img width="844" alt="image" src="https://github.com/user-attachments/assets/587a28eb-d272-4759-9380-8fa6579d5e8e" />
-    ![image (15)](https://github.com/user-attachments/assets/6d0d3809-66bb-4c91-9122-03fe1ddda3c8)
+
+<img width="550" alt="image" src="https://github.com/user-attachments/assets/6478910b-5980-4e6d-bb72-146c76e5ed8d" />
+
 
 **매출액순이익률(profit/sales * 100 (%)) SWOT**
 
