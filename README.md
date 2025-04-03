@@ -231,7 +231,10 @@
 - 두 나라 모두 사무용품의 재구매 주기가 짧음
 
 **카테고리 별 가격 탄력성** 
-![image (31)](https://github.com/user-attachments/assets/cd175e9a-df21-41b6-ab5c-efc2ec21c071)
+<img width="543" alt="image" src="https://github.com/user-attachments/assets/9aea09b7-17dc-4f55-a2b3-362192964b44" />
+<img width="321" alt="image" src="https://github.com/user-attachments/assets/86decb0d-3ebb-4b8f-9400-49a2e2c9cf1f" />
+
+
 - 가격탄력성 모델 설명 : 수요량의 변화율(판매량)을 가격의 변화율(1-할인율)로 나눈 값
 - 1에 가까울수록 가격 탄력성이 높음 - 가격 탄력성이 높을수록 가격에 민감
 
