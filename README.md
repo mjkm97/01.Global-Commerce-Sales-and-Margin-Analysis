@@ -185,7 +185,7 @@
 
 ### **2. 제품 카테고리 별 전략 제안**
 
-![image (36)](https://github.com/user-attachments/assets/d67c8fef-fce3-4de8-86dd-e3a1346ab774)
+![SUMMARY](https://github.com/user-attachments/assets/cbbd04af-b549-49d3-befe-223de67595a1)
 
 
 - **참고) 카테고리별 이익률 (Profit/Sales %)**
@@ -226,17 +226,33 @@
     
 
 **카테고리 별 재구매 주기** 
+
 ![image (28)](https://github.com/user-attachments/assets/382d99d4-f3a2-4505-9545-e185ca80fcbf)
 - 전체적으로 호주 시장의 재구매 주기가 중국시장보다 김 (중국시장 고객들이 더 자주 구매)
 - 두 나라 모두 사무용품의 재구매 주기가 짧음
 
 **카테고리 별 가격 탄력성** 
+
 <img width="543" alt="image" src="https://github.com/user-attachments/assets/9aea09b7-17dc-4f55-a2b3-362192964b44" />
-<img width="321" alt="image" src="https://github.com/user-attachments/assets/86decb0d-3ebb-4b8f-9400-49a2e2c9cf1f" />
 
+  
+***수요의 가격탄력성(Price Elasticity of Demand)****
+- 수요량의 변화율(판매량)을 가격의 변화율(1-할인율)로 나눈 값
+- 예를 들어 어떤 재화의 가격이 10% 상승할 때 이로 인해 그 재화의 수요량이 20% 감소했다면, 이 재화의 수요의 가격 탄력성은 2(20% 나누기 10%의 값)로 탄력적인 재화라 할 수 있음
+- 수요의 가격탄력성이 0~1의 값을 가지면 가격변화비율보다 수요량변화비율이 더 작다는 뜻(비탄력적, inelastic)이며, 그 값이 1보다 크다면 가격변화비율보다 수요량변화비율이 더 크다는 뜻(탄력적, elastic)
 
-- 가격탄력성 모델 설명 : 수요량의 변화율(판매량)을 가격의 변화율(1-할인율)로 나눈 값
-- 1에 가까울수록 가격 탄력성이 높음 - 가격 탄력성이 높을수록 가격에 민감
+    ***가격변동성 해석***
+    1) Technology 카테고리의 Price Elasticity (5.60~5.67) : 중국과 호주의 Technology 제품은 할인에 매우 민감한 것으로 보임.
+        - 즉, 할인율을 조금만 높여도 판매량이 크게 변동할 가능성이 큼.
+        - R² 값이 중국(0.7988)에서 더 높아, 모델의 설명력이 상당히 높다는 걸 의미.
+    2) Furniture & Office Supplies의 탄력성: Furniture: 탄력성이 1.03~1.14 수준, 할인에 대한 반응이 있지만, 중간 정도의 영향.
+    3) Office Supplies: 중국(3.14)에서 탄력성이 크지만, 호주(0.04)는 거의 반응 없음.
+        - 호주의 Office Supplies는 할인 정책이 판매량에 거의 영향을 미치지 않을 가능성이 큼.
+    ***R² 값 해석***
+    1) 높은 R² (중국 Technology: 0.7988, Office Supplies: 0.8567)
+       - 할인, 매출, 이익 변수가 판매량을 설명하는 데 높은 설명력을 가짐.
+    3) 낮은 R² (호주 Technology: 0.2164, Furniture: 0.3370)
+       - 판매량을 결정하는 더 중요한 다른 요인이 있을 가능성이 큼 (예: 계절성, 브랜드, 시장 트렌드).
 
 
 ### **3. 호주의 최적 할인율 설정**
