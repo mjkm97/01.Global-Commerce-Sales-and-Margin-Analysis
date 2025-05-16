@@ -254,6 +254,7 @@
     2) Furniture & Office Supplies의 탄력성: Furniture: 탄력성이 1.03~1.14 수준, 할인에 대한 반응이 있지만, 중간 정도의 영향.
     3) Office Supplies: 중국(3.14)에서 탄력성이 크지만, 호주(0.04)는 거의 반응 없음.
         - 호주의 Office Supplies는 할인 정책이 판매량에 거의 영향을 미치지 않을 가능성이 큼.
+          
     ***R² 값 해석***
     1) 높은 R² (중국 Technology: 0.7988, Office Supplies: 0.8567)
        - 할인, 매출, 이익 변수가 판매량을 설명하는 데 높은 설명력을 가짐.
